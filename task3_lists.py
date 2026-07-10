@@ -8,3 +8,12 @@ print(len(video_game_sales))
 
 dataset_info = (len(video_game_sales), 10, 'Video Game Sales')
 print (dataset_info)
+
+NAME = 1
+YEAR = 3
+GENRE = 4
+PUBLISHER = 5
+NA_SALES = 6
+EU_SALES = 7
+JP_SALES = 8
+GLOBAL_SALES = 9
