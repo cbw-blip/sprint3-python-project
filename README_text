@@ -6,6 +6,6 @@ readme_text = """# Video Game Sales Analysis
 This project contains an analysis of the top 20 best selling video games using visualization of key performance such as rankings and global_sales using Python. 
 
 ## Data Source
-Kaggle Video Game Sales Dataset """
+Video Game Sales Analysis """
 
 print(readme_text)
