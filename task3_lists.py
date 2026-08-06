@@ -30,7 +30,9 @@ PUBLISHER = 5
 NA_SALES = 6
 EU_SALES = 7
 JP_SALES = 8
-GLOBAL_SALES = 9game_names = []
+GLOBAL_SALES = 9
+
+game_names = []
 for game in video_game_sales:
     game_names.append(game[NAME])
 print(game_names)
