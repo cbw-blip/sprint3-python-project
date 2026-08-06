@@ -31,7 +31,9 @@ PUBLISHER = 5
 NA_SALES = 6
 EU_SALES = 7
 JP_SALES = 8
-GLOBAL_SALES = 9pre_2000_count = 0        
+GLOBAL_SALES = 9
+
+pre_2000_count = 0        
 
 for game in video_game_sales:
     if game[GLOBAL_SALES] > 25:
