@@ -30,7 +30,9 @@ PUBLISHER = 5
 NA_SALES = 6
 EU_SALES = 7
 JP_SALES = 8
-GLOBAL_SALES = 9messy_names = ['  Wii Sports  ', 'TETRIS', '  mario kart WII']
+GLOBAL_SALES = 9
+
+messy_names = ['  Wii Sports  ', 'TETRIS', '  mario kart WII']
 
 game_name = video_game_sales[4][NAME]
 print(game_name [0:7])
