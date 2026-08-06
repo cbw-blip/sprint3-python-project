@@ -31,7 +31,9 @@ PUBLISHER = 5
 NA_SALES = 6
 EU_SALES = 7
 JP_SALES = 8
-GLOBAL_SALES = 9sales_by_genre={}
+GLOBAL_SALES = 9
+
+sales_by_genre={}
 
 for game in video_game_sales:
     genre=game[GENRE]
